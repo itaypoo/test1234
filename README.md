@@ -90,3 +90,5 @@
 - **Decryption**: \( m = c^d \ (\text{mod} \ n) \)
 
 By understanding these detailed steps, you can see the underlying mathematics and logic that make RSA secure and effective for encryption and decryption.
+
+Euler's Totient Function, denoted as 𝜙(𝑛), is a mathematical function used in number theory. It computes the count of positive integers less than or equal to 𝑛 that are relatively prime to 𝑛. In simpler terms, it calculates the number of positive integers less than 𝑛 that have no common factors (other than 1) with 𝑛.
